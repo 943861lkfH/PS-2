@@ -1,0 +1,10 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.sim/sim_1/behav/xsim/glbl.v,1605673888,verilog,,,,glbl,,,,,,,,
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sim_1/new/pc2_test.v,1672266498,verilog,,,,pc2_test,,,,,,,,
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/DC.v,1672265166,verilog,,C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/RECIEVER_pc2.v,,DC,,,,,,,,
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/RECIEVER_pc2.v,1670337436,verilog,,C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/test.v,,RECIEVER_pc2,,,,,,,,
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/test.v,1672268165,verilog,,C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/test_alina.v,,TicTacToe,,,,,,,,
+C:/Project_vivado/PRIMA_PS2/PRIMA_PS2.srcs/sources_1/new/test_alina.v,1672268235,verilog,,,,test_alina,,,,,,,,
